@@ -1,0 +1,135 @@
+body {
+	padding: 25px;
+	background-color: aliceblue;
+	color: #777777;
+}
+
+header {
+	background-color: #ffffff;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 20px;
+	font-weight: Bold;
+	color: white;
+	padding: 26px;
+	margin-bottom: 75px;
+	border-color: #cccccc;
+}
+
+
+#name {
+	background-color: #4aaaa5;
+	padding: 25px;
+	margin-left: 90px;
+
+}
+
+nav {
+	font-size: 25px;
+	float:right;
+	margin-right: 35px;
+}
+
+	.buttons {
+	    background-color: #ffffff;
+	    border: none;
+	    color: gray;
+	    padding: 5px 20px;
+	    text-align: center;
+	    text-decoration: none;
+	    display: inline-block;
+	    font-size: 18px;
+	    margin: -13px 2px;
+	    cursor: pointer;
+	    clear: both;
+	    overflow: auto;
+}
+
+.about{
+	background-color: #ffffff;
+	margin-left: 120px;
+	padding: 25px;
+	height: 400px;
+	width: 550px;
+	float:left;
+	clear: both;
+
+}
+
+#headings {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 20px;
+	font-weight: Bold;
+	padding: 20px;
+	margin-left: -230px;
+	margin-right: 120px;
+	clear: both;
+	overflow: auto;
+}
+
+
+#paragraph{
+	margin-top: 40px;
+	border-top-color: gray;
+	clear: both;
+	overflow: auto;
+}
+
+.aboutimage{
+	float:left;
+	margin: 20px;
+	margin-left: -10px;
+}
+
+
+#connect{
+	height: 200px;
+	width: 350px;
+	background-color: #ffffff;
+	float:right;
+	margin-right: 180px;
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 18px;
+	font-weight: Bold;
+	text-align: center;
+	margin-bottom: -10px;
+	padding: 15px;
+
+}
+
+.mailimage{
+	display: block;
+	clear: both;
+	overflow: auto;
+	margin-top: 25px;
+	alignment-baseline: center;
+}
+
+.linkedin{
+	margin-top: -85px;
+	position:fixed;
+	margin-left: -40px;
+
+}
+
+.github{
+float: right;
+margin-top: -85px;
+
+}
+
+footer{
+
+	height: 30px;
+	padding:20px;
+	background-color:#666666;
+	margin-top: 650px;
+	text-align: center;
+	border-color: white;
+	border-style: thick;
+	color: white;
+}
+
+
+
