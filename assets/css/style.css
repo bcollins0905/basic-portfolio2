@@ -114,9 +114,14 @@ nav {
 }
 
 .github{
-float: right;
-margin-top: -85px;
+	float: right;
+	margin-top: -85px;
 
+}
+
+.contact-container{
+	float:left;
+	font-size: 30px;
 }
 
 footer{
